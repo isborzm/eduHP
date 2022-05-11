@@ -1,0 +1,23 @@
+Header: (what, where, under what conditions)
+
+Description
+	Precondition (if have)
+	Steps:
+	1.
+	2.
+	3.
+	etc.
+
+Expected Result
+Result
+
+Environment
+
+Test stand
+
+Attached logs, video, screenshots
+
+Severity
+
+
+
